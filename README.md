@@ -1,6 +1,17 @@
 # 40pinbreakout
 Universal 40-Pin Breadboard Breakout Board
 
+## PCB ordering
+
+- **[Download the Gerber ZIP](https://github.com/hexbus/40pinbreakout/raw/refs/heads/main/40%20pin%20breakout%20board-gerbers.zip)**
+- **[Open JLCPCB using my referral link](https://jlcpcb.com/?from=RVDYTTLKZHK)**
+
+Download the Gerber ZIP, open JLCPCB through the referral link, and upload the ZIP.
+
+Confirm the detected outline, dimensions and layer count, and use this project's documented board and assembly requirements before ordering.
+
+The referral link does not upload files automatically. I may receive referral rewards for qualifying new users.
+
 ## Overview
 
 The **40pinbreakout** is a universal 40-pin breakout board designed for debugging, prototyping, and interfacing with systems that use standard 2x20 "IDE-style" headers.
